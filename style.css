@@ -1,0 +1,8 @@
+.cards img{
+max-height: 200px;
+}
+.logo img{
+max-height:75px;
+ float: left;
+ margin: 10px
+}
